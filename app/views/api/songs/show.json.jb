@@ -1,0 +1,7 @@
+{
+  title: song.title,
+  album: song.album,
+  artist: song.artist,
+  year: song.year,
+
+}
